@@ -14,7 +14,6 @@ Clone the repository:
 
 ```sh
 git clone https://github.com/VineetJha202133/task.git
-cd to-do
 ```
 
 ### Running the Project
