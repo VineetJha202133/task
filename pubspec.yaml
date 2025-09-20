@@ -1,0 +1,28 @@
+name: tortoise_device_marketplace
+description: Tortoise Device Marketplace - Employee Benefits Platform
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  phosphor_flutter: ^2.0.0
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.9
+  carousel_slider: ^5.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
