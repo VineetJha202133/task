@@ -13,7 +13,7 @@ To get started with this project, follow these steps:
 Clone the repository:
 
 ```sh
-git clone https://github.com/VineetJha202133/to-do.git
+git clone https://github.com/VineetJha202133/task.git
 cd to-do
 ```
 
@@ -37,7 +37,7 @@ flutter run
 To build the APK in release mode:
 
 ```sh
-flutter build apk --release --no-tree-shake-icons
+flutter build apk
 ```
 
 
